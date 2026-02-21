@@ -1,5 +1,4 @@
-✅ 2️⃣ Entidade Comanda (Agrupa pedidos presenciais)
-        package com.oficinadafesta.comanda.domain;
+    package com.oficinadafesta.comanda.domain;
 
 import com.oficinadafesta.pedido.domain.Pedido;
 import com.oficinadafesta.pagamento.domain.Pagamento;
